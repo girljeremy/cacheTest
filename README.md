@@ -1,2 +1,0 @@
-# cacheTest
-http cache test

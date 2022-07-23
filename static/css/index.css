@@ -1,0 +1,7 @@
+.img_box {
+  width           : 200px;
+  height          : 200px;
+  background-image: url(./dog.png);
+  background-size : 100% 100%;
+  background-color: rgb(121, 46, 21);
+}

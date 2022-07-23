@@ -1,0 +1,17 @@
+{
+  "name": "catchtest",
+  "version": "1.0.0",
+  "description": "http 缓存练习demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "http缓存"
+  ],
+  "author": "liuweihang",
+  "license": "ISC",
+  "devDependencies": {
+    "koa": "^2.13.4"
+  }
+}
